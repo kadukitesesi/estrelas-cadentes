@@ -1,2 +1,2 @@
 # estrelas-cadentes
-Projeto neve
+Projeto de animação de uma nevasca
